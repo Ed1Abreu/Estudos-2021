@@ -1,0 +1,1 @@
+Um projeto feito em C++, onde o usuário informa o valor de saque e o programa retorna o valor desejado com determinados valores de cédulas.
