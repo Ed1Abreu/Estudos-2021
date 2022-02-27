@@ -1,0 +1,1 @@
+Um programa onde há um menu onde apresenta diversos tipos de cálculos e conversão de valores.
