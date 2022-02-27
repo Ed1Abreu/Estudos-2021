@@ -1,0 +1,1 @@
+Um programa onde é gerado aleatoriamente, cálculos básicos de matemática.
