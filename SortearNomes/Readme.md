@@ -1,0 +1,1 @@
+Um programa simples de sortear 4 nomes que o usuário digitar. 
